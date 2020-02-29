@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7E78345A-D916-4778-AB9F-D7A8F189F2F3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84482D40-982A-4AF6-9046-62707620C836"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2CC282F-7ABF-4062-AC10-992D92FB91CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C38421A-E6A5-435E-B010-1311AB4E1DFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/ViewController/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33E86D5C-8918-47D8-8266-B7787A544856"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/Cell/FooBookTableCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "FooBookTableCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - ba0c344e310ef4e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.(feedView in _1679FD55AFC0FDE593E06DE5B314F63C).getter : Swift.Optional&lt;FooBook.FooBookFeedView&gt;"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - 87e71e87c2d88cf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.(feedView in _1679FD55AFC0FDE593E06DE5B314F63C).setter : Swift.Optional&lt;FooBook.FooBookFeedView&gt;"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - 369f1676924702e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.(feedView in _1679FD55AFC0FDE593E06DE5B314F63C).modify : Swift.Optional&lt;FooBook.FooBookFeedView&gt;"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - 5d5afffa9efb2591"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.(feedView in _1679FD55AFC0FDE593E06DE5B314F63C).modify : Swift.Optional&lt;FooBook.FooBookFeedView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - a9c9db00c0d473a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; FooBook.FooBookTableCell"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "33E86D5C-8918-47D8-8266-B7787A544856 - ba1f0b410eeab4a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FooBook.FooBookTableCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;FooBook.FooBookTableCell&gt;"
+                  moduleName = "FooBook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/FooBook/FooBook/Cell/FooBookTableCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "90">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F67B722-8E74-4DEC-AEC2-67D62C9186A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/Cell/FooBookTableCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "setupSubView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "46C1E207-BD21-4376-A03E-E40B23BD5CE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FooBook/Cell/FooBookTableCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
